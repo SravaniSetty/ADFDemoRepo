@@ -1,0 +1,9 @@
+{
+	"name": "ADFSetty",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a557fe67-f6d5-4493-9d91-dbd83c5be5f9",
+		"tenantId": "a51dd6b8-2b5a-45e1-9747-e5e1f8d05a1a"
+	}
+}
